@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="file/file.csproj" />
+  <Project Path="MetodichkaTumakov/MetodichkaTumakov.csproj" />
+</Solution>
